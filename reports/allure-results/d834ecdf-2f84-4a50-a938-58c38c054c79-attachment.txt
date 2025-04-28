@@ -1,0 +1,2 @@
+[32mINFO    [0m api_client.client:client.py:29 Request: DELETE https://jsonplaceholder.typicode.com/users/1
+[32mINFO    [0m api_client.client:client.py:38 Response Status: 200

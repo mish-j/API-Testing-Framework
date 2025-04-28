@@ -1,0 +1,2 @@
+[32mINFO    [0m api_client.client:client.py:29 Request: GET https://jsonplaceholder.typicode.com/users/999
+[32mINFO    [0m api_client.client:client.py:38 Response Status: 404
